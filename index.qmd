@@ -8,9 +8,3 @@ editor: visual
 ## my site etc
 
 Here is some sample text.
-
-I might want some code too!:
-
-```{r}
-1+1
-```
