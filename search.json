@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "my site",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
     "section": "",
-    "text": "Here is some sample text."
+    "text": "More about me etc"
   },
   {
-    "objectID": "index.html#my-site-etc",
-    "href": "index.html#my-site-etc",
-    "title": "my site",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Some of my projects",
     "section": "",
-    "text": "Here is some sample text."
+    "text": "No matching items"
   }
 ]
