@@ -2,17 +2,23 @@ project:
   type: website
 
 website:
-  title: "today"
+  title: "Alexandra McSween"
+  description: "Personal site for Alexandra McSween"
+  image: avatar.jpg
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: My Projects
+    open-graph: true
 
 format:
   html:
     theme: 
       light: minty
-      dark: slate
+      dark: darkly
     css: styles.css
     toc: true

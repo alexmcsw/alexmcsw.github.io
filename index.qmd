@@ -1,10 +1,28 @@
 ---
-title: "my site"
-author: "Alexandra McSween"
+title: "Alexandra McSween MSc"
 format: html
-editor: visual
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/alexandra-mcsween"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/alexmcsw"
+    - text: Email
+      icon: envelope
+      url: "mailto:"
+comments: false
 ---
 
 ## my site etc
 
+:::{#hero-heading}
+
+# testingm
+
 Here is some sample text.
+
+:::
