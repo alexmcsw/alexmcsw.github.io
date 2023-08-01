@@ -2,15 +2,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About me",
+    "title": "Partial CV",
     "section": "",
-    "text": "More about me etc"
+    "text": "Data Scientist, Statistics Canada, (2022-present)\nIT Officer, Canadian Mathematical Society (2021-2022)\n\n\n\n\n\nMasters of Science in Mathematics and Statistics (2019-2021), University of Ottawa, Ottawa, ON\nHonours Bachelor of Science with Specialization in Mathematics (2015-2019), University of Ottawa, Ottawa, ON\n\n\n\n\nAffine Oriented Frobenius Brauer Category (2021) https://arxiv.org/abs/2101.04582"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Some of my projects",
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "Partial CV",
     "section": "",
-    "text": "No matching items"
+    "text": "Data Scientist, Statistics Canada, (2022-present)\nIT Officer, Canadian Mathematical Society (2021-2022)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Partial CV",
+    "section": "",
+    "text": "Masters of Science in Mathematics and Statistics (2019-2021), University of Ottawa, Ottawa, ON\nHonours Bachelor of Science with Specialization in Mathematics (2015-2019), University of Ottawa, Ottawa, ON"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "Partial CV",
+    "section": "",
+    "text": "Affine Oriented Frobenius Brauer Category (2021) https://arxiv.org/abs/2101.04582"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alexandra McSween MSc",
+    "section": "",
+    "text": "About\nI hold an award-nominated MSc in mathematics and statistics. I have over 5 years experience with Python and R. I’m passionate about equity, diversity and inclusion in STEM and enjoy working on multi-discipinary projects exploring these topics. See my GitHub for samples of my work."
   }
 ]
