@@ -2,30 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Partial CV",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Data Scientist, Statistics Canada, (2022-present)\nIT Officer, Canadian Mathematical Society (2021-2022)\n\n\n\n\n\nMasters of Science in Mathematics and Statistics (2019-2021), University of Ottawa, Ottawa, ON\nHonours Bachelor of Science with Specialization in Mathematics (2015-2019), University of Ottawa, Ottawa, ON\n\n\n\n\nAffine Oriented Frobenius Brauer Category (2021) https://arxiv.org/abs/2101.04582"
-  },
-  {
-    "objectID": "about.html#work-experience",
-    "href": "about.html#work-experience",
-    "title": "Partial CV",
-    "section": "",
-    "text": "Data Scientist, Statistics Canada, (2022-present)\nIT Officer, Canadian Mathematical Society (2021-2022)"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Partial CV",
-    "section": "",
-    "text": "Masters of Science in Mathematics and Statistics (2019-2021), University of Ottawa, Ottawa, ON\nHonours Bachelor of Science with Specialization in Mathematics (2015-2019), University of Ottawa, Ottawa, ON"
-  },
-  {
-    "objectID": "about.html#publications",
-    "href": "about.html#publications",
-    "title": "Partial CV",
-    "section": "",
-    "text": "Affine Oriented Frobenius Brauer Category (2021) https://arxiv.org/abs/2101.04582"
+    "text": "Education\n\nMasters of Science in Mathematics and Statistics (2019-2021)\nUniversity of Ottawa, Ottawa, ON\n\n\nHonours Bachelor of Science with Specialization in Mathematics (2015-2019),\nUniversity of Ottawa, Ottawa, ON\n\n\n\nWork Experience\n\n\n\n\n\n\nData Scientist, Statistics Canada (2022-present)\n\n\n\n\nDeveloped curriculum for and organised week-long R/Python bootcamps with up to 25 participants. Managed scheduling and outreach for the bootcamps and assigned lessons to other employees.\nRan a quarterly survey about R and Python use at StatCan. Wrote scripts and created a CI/CD pipeline to produce summary metrics and reports for senior management.\nCreated an RPyLadies chapter for StatCan to promote gender equality in programming. Managed the distribution list and organised social events for the group.\n\n\n\n\n\n\n\n\n\nIT Officer, Canadian Mathematical Society (2021-2022)\n\n\n\n\n\n\nMaintained websites with HTML, CSS, and JS, managed Django databases and wrote scripts in python.\nProvided technical support for a virtual conference and several high school math competitions.\n\n\n\n\n\n\n\n\n\n\nTeaching Assistant, University of Ottawa (2019-2021)\n\n\n\n\n\n\nRan tutorials, marked exams, and worked with students one on one in the math help center.\n\n\n\n\n\n\n\n\n\n\nTutor, University of Ottawa (2015-2021)\n\n\n\n\n\n\nTutored students in calculus, linear algebra, discrete math and statistics.\n\n\n\n\n\n\n\n\n\n\nMathematics Research Assistant, University of Ottawa (2018)\n\n\n\n\n\n\nInvestigated string diagram relations for the affine oriented Frobenius Brauer category.\n\n\n\n\n\n\n\n\n\n\nMathematics Research Assistant, University of Ottawa (2017)\n\n\n\n\n\n\nInvestigated reflection groups and symmetries using SageMath for python.\n\n\n\n\n\n\nPublications\n\nAffine Oriented Frobenius Brauer Category (2021)\nUniversity of Ottawa, Ottawa, ON | Co-authored with Prof Alistair Savage\n\n\nAffine Oriented Frobenius Brauer Categories and general linear Lie superalgebras (2021)\nMasters thesis, nominated for the Commission on graduate studies in sciences prize University of Ottawa, Ottawa, ON | Supervised by Alistair Savage\n\n\n\nTraining and Certificates\n\n\n\n\n\n\nMath^Industry, University of Alberta (2021)\n\n\n\n\n\n\nWorked on a team with an industry partner, ATCO, to study the feasibility of and compute potential power output of vertical axis wind turbines along highways.\n\n\n\n\n\n\n\n\n\n\nAnnual International Women’s Day Panel, University of Ottawa (2019-2021)\n\n\n\n\n\n\nOrganized and moderated annual panel of women mathematicians to share their experiences and career advice.\n\n\n\n\n\n\n\n\n\n\nMachine Learning Workshop, University of Ottawa (2020)\n\n\n\n\n\n\nLearned basics of Pytorch for machine learning.\n\n\n\n\n\n\n\n\n\n\nMath^Industry, University of Alberta (2020)\n\n\n\n\n\n\nWorked on a team with an industry partner, The Divi Project, to develop and analyze the efficiency of compression techniques for blockchain technology.\n\n\n\n\n\n\n\n\n\n\nMitacs Project Management Training, University of Alberta, (2020)\n\n\n\n\n\n\nLearned how to manage stakeholders, define the value of a project, deal with conflict, and manage quality.\n\n\n\n\n\n\n\n\n\n\nEquity, Diversity and Inclusion (EDI) Committee, University of Ottawa (2020)\n\n\n\n\n\n\nWorked as a student representative to identify and implement ways to improve EDI in the math department at uOttawa.\n\n\n\n\n\n\nNotable Volunteer Experience\n\n\n\n\n\n\nWomen in Math Club, University of Ottawa (2017-2021)\n\n\n\n\n\n\nServed as president and founder. Duties included chairing meetings, keeping financial records, planning and organizing networking events and charitable initiatives.\n\n\n\n\n\n\n\n\n\n\nLet’s Talk Science, University of Ottawa (2019-2021)\n\n\n\n\n\n\nOrganized a math symposium for high school students. Created math activity videos for at home learning during the pandemic.\n\n\n\n\n\n\n\n\n\n\nHeart of the City Piano, University of Ottawa (2015-2021)\n\n\n\n\n\n\nTaught piano and coordinated teachers for over 30 low-income elementary school students’ lessons.\n\n\n\n\n\n\n\n\n\n\nLetters to a Prescientist (2020-2021)\n\n\n\n\n\n\nPenpal to a low income middle school student to foster interest in science and math.\n\n\n\n\n\n\n\n\n\n\nAssociation for Women in Math (2020)\n\n\n\n\n\n\nReviewed articles for publication. Reviewed and compiled data and wrote biographies about women mathematicians for a set of playing cards."
   },
   {
     "objectID": "index.html",
