@@ -9,7 +9,7 @@ about:
   links:
     - text: LinkedIn
       icon: linkedin
-      url: "https://www.linkedin.com/in/alexandra-mcsween"
+      url: "https://ca.linkedin.com/in/alexandra-mcsween-b47879133"
     - text: GitHub
       icon: github
       url: "https://github.com/alexmcsw"
@@ -17,10 +17,8 @@ about:
       icon: envelope
       url: "mailto:"
 comments: false
+page-navigation: false
 ---
-:::{#hero-heading}
 
 # About
 I hold an award-nominated MSc in mathematics and statistics. I have over 5 years experience with Python and R. I'm passionate about equity, diversity and inclusion in STEM and enjoy working on multi-discipinary projects exploring these topics. See [my GitHub](https://github.com/alexmcsw) for samples of my work.
-
-:::

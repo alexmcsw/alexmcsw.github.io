@@ -1,25 +1,127 @@
 ---
-title: "Partial CV"
-format: html
+title: "Curriculum Vitae"
+format: 
+    html:
+        theme: 
+        - styles.css
 editor: visual
 ---
+# Education
 
-:::{#hero-heading}
-## Work Experience
-
-- Data Scientist, Statistics Canada, (2022-present)
-- IT Officer, Canadian Mathematical Society (2021-2022)
-
-## Education
-- Masters of Science in Mathematics and Statistics (2019-2021), University of Ottawa, Ottawa, ON
-
-- Honours Bachelor of Science with Specialization in Mathematics (2015-2019),
+###### Masters of Science in Mathematics and Statistics (2019-2021)
 University of Ottawa, Ottawa, ON
 
-## Publications
-
-Affine Oriented Frobenius Brauer Category (2021) <https://arxiv.org/abs/2101.04582>
-
+###### Honours Bachelor of Science with Specialization in Mathematics (2015-2019),
+University of Ottawa, Ottawa, ON
 
 
+# Work Experience
+
+::: {.callout-tip appearance="simple" icon="false"}
+
+## Data Scientist, Statistics Canada (2022-present)
+
+- Developed curriculum for and organised week-long R/Python bootcamps with up to 25 participants. Managed scheduling and outreach for the bootcamps and assigned lessons to other employees.
+- Ran a quarterly survey about R and Python use at StatCan. Wrote scripts and created a CI/CD pipeline to produce summary metrics and reports for senior management.
+- Created an RPyLadies chapter for StatCan to promote gender equality in programming. Managed the distribution list and organised social events for the group.
+
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+
+## IT Officer, Canadian Mathematical Society (2021-2022)
+
+- Maintained websites with HTML, CSS, and JS, managed Django databases and wrote scripts in python.
+- Provided technical support for a virtual conference and several high school math competitions.
+
+
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Teaching Assistant, University of Ottawa (2019-2021)
+- Ran tutorials, marked exams, and worked with students one on one in the math help center.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Tutor, University of Ottawa (2015-2021)
+- Tutored students in calculus, linear algebra, discrete math and statistics.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Mathematics Research Assistant, University of Ottawa (2018)
+- Investigated string diagram relations for the affine oriented Frobenius Brauer category.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Mathematics Research Assistant, University of Ottawa (2017)
+- Investigated reflection groups and symmetries using SageMath for python.
+:::
+
+# Publications
+
+###### [Affine Oriented Frobenius Brauer Category](https://arxiv.org/abs/2101.04582) (2021)
+University of Ottawa, Ottawa, ON | Co-authored with Prof Alistair Savage
+
+###### [Affine Oriented Frobenius Brauer Categories and general linear Lie superalgebras](https://ruor.uottawa.ca/handle/10393/42342) (2021)
+Masters thesis, nominated for the Commission on graduate studies in sciences prize
+University of Ottawa, Ottawa, ON | Supervised by Alistair Savage
+
+# Training and Certificates
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## [Math^Industry](m2pi.ca), University of Alberta (2021)
+- Worked on a team with an industry partner, ATCO, to study the feasibility of and compute potential power output of vertical axis wind turbines along highways.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+
+## Annual International Women’s Day Panel, University of Ottawa (2019-2021)
+- Organized and moderated annual panel of women mathematicians to share their experiences and career advice.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Machine Learning Workshop, University of Ottawa (2020)
+- Learned basics of Pytorch for machine learning.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## [Math^Industry](m2pi.ca), University of Alberta (2020)
+- Worked on a team with an industry partner, The Divi Project, to develop and analyze the efficiency of compression techniques for blockchain technology.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Mitacs Project Management Training, University of Alberta, (2020)
+- Learned how to manage stakeholders, define the value of a project, deal with conflict, and manage quality.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Equity, Diversity and Inclusion (EDI) Committee, University of Ottawa (2020)
+- Worked as a student representative to identify and implement ways to improve EDI in the math department at uOttawa.
+
+:::
+
+# Notable Volunteer Experience
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Women in Math Club, University of Ottawa (2017-2021)
+- Served as president and founder. Duties included chairing meetings, keeping financial records, planning and organizing networking events and charitable initiatives.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Let’s Talk Science, University of Ottawa (2019-2021)
+- Organized a math symposium for high school students. Created math activity videos for at home learning during the pandemic.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Heart of the City Piano, University of Ottawa (2015-2021)
+- Taught piano and coordinated teachers for over 30 low-income elementary school students’ lessons.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Letters to a Prescientist (2020-2021)
+- Penpal to a low income middle school student to foster interest in science and math.
+:::
+
+::: {.callout-tip appearance="simple" collapse="true" icon="false"}
+## Association for Women in Math (2020)
+- Reviewed articles for publication. Reviewed and compiled data and wrote biographies about women mathematicians for a set of playing cards.
 :::

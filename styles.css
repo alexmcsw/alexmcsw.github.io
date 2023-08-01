@@ -1,0 +1,14 @@
+/*-- scss:defaults --*/
+$border-color-left: #0dcaf0 !default;
+$background-color: #bfe4eb !default;
+
+
+/*-- scss:rules --*/
+
+div.callout-custom.callout {
+  border-left-color: $border-color-left;
+}
+
+div.callout-custom.callout-style-default>.callout-header {
+  background-color: $background-color;
+}

@@ -17,6 +17,6 @@ format:
   html:
     theme: 
       light: minty
-      dark: darkly
+      dark: cyborg
     css: styles.css
     toc: true
