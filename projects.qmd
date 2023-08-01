@@ -1,6 +1,0 @@
----
-title: "Some of my projects"
-listing:
-  contents: posts
-  type: default
----
