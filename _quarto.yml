@@ -10,9 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
-      - href: projects.qmd
-        text: My Projects
+        text: CV
     open-graph: true
 
 format:
