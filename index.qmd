@@ -22,3 +22,5 @@ page-navigation: false
 
 # About
 I hold an award-nominated MSc in mathematics and statistics. I have over 5 years experience with Python and R. I'm passionate about equity, diversity and inclusion in STEM and enjoy working on multi-discipinary projects exploring these topics. See [my GitHub](https://github.com/alexmcsw) for samples of my work.
+
+I am currently a Data Scientist at Statistics Canada. Check out [my CV here](./about.qmd).
