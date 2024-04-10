@@ -15,11 +15,18 @@ editor: visual
 
 # Work Experience
 
-#### Data Scientist, Statistics Canada (2022-present)
+#### Data Scientist, Centre for Demography, Statistics Canada (2023-present)
+
+- Created and maintain an R package for cohort-component population projections
+- Created R programs to produce demographic components (such as mortality) for small populations
+- Promoted the use of and provided expertise on open-source tools and best practices
+
+
+#### Data Scientist, Data Science and Innovation Division, Statistics Canada (2022-2023)
 
 - Developed curriculum for and organised week-long R/Python bootcamps with up to 25 participants. Managed scheduling and outreach for the bootcamps and assigned lessons to other employees.
 - Ran a quarterly survey about R and Python use at StatCan. Wrote scripts and created a CI/CD pipeline to produce summary metrics and reports for senior management.
-- Created an RPyLadies chapter for StatCan to promote gender equality in programming. Managed the distribution list and organised social events for the group.
+- Created an RLadies chapter for StatCan to promote gender equality in programming. Managed the distribution list and organised social events for the group.
 
 #### IT Officer, Canadian Mathematical Society (2021-2022)
 
