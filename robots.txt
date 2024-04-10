@@ -1,1 +1,1 @@
-Sitemap: https://github.com/alexmcsw/alexmcsw.github.io/sitemap.xml
+Sitemap: https://alexmcsw.github.io/sitemap.xml
