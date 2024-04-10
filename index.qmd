@@ -21,6 +21,8 @@ page-navigation: false
 ---
 
 # About
-I hold an award-nominated MSc in mathematics and statistics. I have over 5 years experience with Python and R. I'm passionate about equity, diversity and inclusion in STEM and enjoy working on multi-discipinary projects exploring these topics. I'm an organizer for RLadies Ottawa! Checkout our site and upcoming events [here](https://rladies-ottawa.github.io/). See [my personal GitHub](https://github.com/alexmcsw) for samples of my work.
+I hold an award-nominated MSc in mathematics and statistics. I have over 5 years experience with Python and R. I'm passionate about equity, diversity and inclusion in STEM and enjoy working on multi-discipinary projects exploring these topics. See [my personal GitHub](https://github.com/alexmcsw) for samples of my work.
+
+I'm an organizer for RLadies Ottawa! Checkout our site and upcoming events [here](https://rladies-ottawa.github.io/). Please reach out to get involved or learn more.
 
 I am currently a Data Scientist in the Centre for Demography at Statistics Canada. Check out [my CV here](./about.qmd).
