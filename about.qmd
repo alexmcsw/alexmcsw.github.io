@@ -18,7 +18,7 @@ editor: visual
 #### Data Scientist, Centre for Demography, Statistics Canada (2023-present)
 
 - Created and maintain an R package for cohort-component population projections
-- Created R programs to produce demographic components (such as mortality) for small populations
+- Created R programs to produce demographic components (such as fertility)
 - Promoted the use of and provided expertise on open-source tools and best practices
 
 
@@ -58,7 +58,6 @@ University of Ottawa, Ottawa, ON | Supervised by Alistair Savage
 
 #### [Math^Industry](m2pi.ca), University of Alberta (2021)
 - Worked on a team with an industry partner, ATCO, to study the feasibility of and compute potential power output of vertical axis wind turbines along highways.
-
 
 #### Annual International Women’s Day Panel, University of Ottawa (2019-2021)
 - Organized and moderated annual panel of women mathematicians to share their experiences and career advice.

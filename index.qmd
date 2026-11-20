@@ -1,5 +1,5 @@
 ---
-title: "Alexandra McSween MSc"
+title: "Alex McSween MSc"
 format: html
 image: static/profile.jpg
 image-shape: round
@@ -13,16 +13,12 @@ about:
     - text: GitHub
       icon: github
       url: "https://github.com/alexmcsw"
-    - text: Email
-      icon: envelope
-      url: "mailto:"
 comments: false
 page-navigation: false
 ---
 
 # About
-I hold an award-nominated MSc in mathematics and statistics. I have over 5 years experience with Python and R. I'm passionate about equity, diversity and inclusion in STEM and enjoy working on multi-discipinary projects exploring these topics. See [my personal GitHub](https://github.com/alexmcsw) for samples of my work.
 
-I'm an organizer for RLadies Ottawa! Checkout our site and upcoming events [here](https://rladies-ottawa.github.io/). Please reach out to get involved or learn more.
+I hold an award-nominated MSc in mathematics and statistics. I have over 8 years experience with Python and R. I'm passionate about equity, diversity and inclusion in STEM. I'm an organizer for RLadies Ottawa! Checkout our site and upcoming events [here](https://rladies-ottawa.github.io/). Please reach out to get involved or learn more.
 
-I am currently a Data Scientist in the Centre for Demography at Statistics Canada. Check out [my CV here](./about.qmd).
+I am currently a Data Scientist in the Centre for Demography at Statistics Canada. My interests are in R package dev, population change, and having fun with code. Check out [my CV here](./about.qmd).
