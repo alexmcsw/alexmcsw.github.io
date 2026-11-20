@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  title: "Alexandra McSween"
-  description: "Personal site for Alexandra McSween"
+  title: "Alex McSween"
+  description: "Personal site for Alex McSween"
   image: avatar.jpg
   navbar:
     right:
